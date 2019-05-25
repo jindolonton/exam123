@@ -1,0 +1,7 @@
+C:\Users\Jindolonton\source\repos\eXAM12\eXAM12\bin\Debug\eXAM12.exe.config
+C:\Users\Jindolonton\source\repos\eXAM12\eXAM12\bin\Debug\eXAM12.exe
+C:\Users\Jindolonton\source\repos\eXAM12\eXAM12\bin\Debug\eXAM12.pdb
+C:\Users\Jindolonton\source\repos\eXAM12\eXAM12\obj\Debug\eXAM12.csprojAssemblyReference.cache
+C:\Users\Jindolonton\source\repos\eXAM12\eXAM12\obj\Debug\eXAM12.csproj.CoreCompileInputs.cache
+C:\Users\Jindolonton\source\repos\eXAM12\eXAM12\obj\Debug\eXAM12.exe
+C:\Users\Jindolonton\source\repos\eXAM12\eXAM12\obj\Debug\eXAM12.pdb
